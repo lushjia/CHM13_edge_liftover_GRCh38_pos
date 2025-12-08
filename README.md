@@ -7,7 +7,7 @@ screen out independent CHM13 graph edges and liftover to GRCh38
 3. variant liftover (CHM13 -> GRCh38)
 
 ## Outpu
-input edge coordiantes in GRCh38
+edge coordiantes in GRCh38
 
 ## run pipeline
 nextflow run main.nf \
